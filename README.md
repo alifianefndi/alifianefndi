@@ -1,6 +1,6 @@
 ![alifianefndi](img/github-header-banner.png)
 
-<div align="start">
+<div align="center">
   <h3>Informatics Engineering | Fullstack Developer</h3>
   <p><em>"Transforming imaginative ideas into responsive, functional, and visually stunning digital interfaces."</em></p>
 </div>
