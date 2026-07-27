@@ -32,12 +32,6 @@ I utilize a variety of modern tools to bring my ideas to life:
 
 <br/>
 
-## 🧪 Creative Lab (Work in Progress)
-
-While I am currently focusing on honing my technical skills and experimenting with modern web architectures, I am brewing a few exciting projects behind the scenes. 
-
-<br/>
-
 ---
 
 <h3 align="center">📫 Let's Connect with me!<h1/>
